@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+     <title> LOL </title> 
+     <link rel="stylesheet" href="dist/css/bootstrap.css">
+     <link type="text/css" rel="stylesheet" href="./organic-life.css">
+</head>
+
+ <body>
+
+<h1> LOL </h1>
+ <h2> London Organic Life </h2>
+
+<div id="buzz" class="text-center">
+  <div class="container">
+  <h2><small>How to live healthy in London</small><br />What to do?</h2>
+
+<div class='row'>
+        <div class='col-sm-4'>
+        	<h3> Restaurants and Cafes </h3>
+            <img scr="restaurant.main.pic.jpg" class="img-circle center block">
+            <blockquote>
+        <p> The last ten years have seen a growing trend in organic restaurants in London, providing people with a great way of tasting organic before making the switch at home. </p>
+        </div>
+		<div class='col-sm-4'>
+        	<h3> Supermarkets </h3>
+        </div>
+		<div class='col-sm-4'>
+        	<h3> Events and Workshops </h3>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+</body>
+
+ </html>
